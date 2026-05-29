@@ -47,7 +47,7 @@ body::before {
     src: url(font/guardilostra.otf) format('opentype');
 }
 @font-face {
-    font-family: 'independence.otf';
+    font-family: 'independence.OTF';
     src: url(font/independence.OTF) format('opentype');
 }
 @font-face {
