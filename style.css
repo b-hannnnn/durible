@@ -48,7 +48,7 @@ body::before {
 }
 @font-face {
     font-family: 'independence.otf';
-    src: url(font/independence.otf) format('opentype');
+    src: url(font/independence.OTF) format('opentype');
 }
 @font-face {
     font-family: 'vinasans.otf';
@@ -99,7 +99,7 @@ nav.scrolled {
     padding: 14px 48px;
 }
 .nav-logo {
-    font-family: 'independence.otf', serif;
+    font-family: 'independence.OTF', serif;
     font-size:25px;
     font-weight:600;
     color:var(--cream);
